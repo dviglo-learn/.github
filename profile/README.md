@@ -2,4 +2,4 @@
 
 ## Примеры
 
-[Шаблон приложения](https://github.com/dviglo-learn/minimal_app)
+[Шаблон приложения / Минимальное приложение](https://github.com/dviglo-learn/minimal_app)
